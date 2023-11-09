@@ -5,7 +5,7 @@ This project features a dynamic square that grows and shrinks as you scroll up a
 1. Download the project files to your local machine.
 
 ## Copy code
-1. git clone https://github.com/your-username/growing-shrinking-square.git
+1. git clone https://github.com/19Archmiel88/Growing-and-Shrinking-Square.git
 2. Open the index.html file in your preferred web browser.
 
 ## How to Use
